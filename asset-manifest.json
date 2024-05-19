@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/test_lv2/static/css/main.e6c13ad2.css",
-    "main.js": "/github.io/test_lv2/static/js/main.9b3827c4.js",
-    "static/js/453.e2b5216b.chunk.js": "/github.io/test_lv2/static/js/453.e2b5216b.chunk.js",
-    "index.html": "/github.io/test_lv2/index.html",
-    "main.e6c13ad2.css.map": "/github.io/test_lv2/static/css/main.e6c13ad2.css.map",
-    "main.9b3827c4.js.map": "/github.io/test_lv2/static/js/main.9b3827c4.js.map",
-    "453.e2b5216b.chunk.js.map": "/github.io/test_lv2/static/js/453.e2b5216b.chunk.js.map"
+    "main.css": "/test_lv2/static/css/main.e6c13ad2.css",
+    "main.js": "/test_lv2/static/js/main.6ab35557.js",
+    "static/js/453.e2b5216b.chunk.js": "/test_lv2/static/js/453.e2b5216b.chunk.js",
+    "index.html": "/test_lv2/index.html",
+    "main.e6c13ad2.css.map": "/test_lv2/static/css/main.e6c13ad2.css.map",
+    "main.6ab35557.js.map": "/test_lv2/static/js/main.6ab35557.js.map",
+    "453.e2b5216b.chunk.js.map": "/test_lv2/static/js/453.e2b5216b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.9b3827c4.js"
+    "static/js/main.6ab35557.js"
   ]
 }
